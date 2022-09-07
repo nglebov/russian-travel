@@ -8,3 +8,6 @@
 * CSS
 * Методология БЭМ
 * Адаптивная вёрстка
+
+## Ссылка на GitHub Pages
+* https://nglebov.github.io/russian-travel/index.html
