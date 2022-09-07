@@ -1,0 +1,12 @@
+.cover {
+    background-image: url(../../images/trains-depo.jpg);
+    max-width: 1184px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+
+
