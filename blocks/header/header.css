@@ -4,9 +4,11 @@
     padding: 28px 48px;
 }
 
+/* Этот медиазапрос добавлен для изменения боковых отступов с 48 на 24px, без него замечание из первой итерации ревью «На 768 Не по макету ширина header», не будет устранени :) */
 @media screen and (max-width: 982px) {
     .header {
-        padding: 28px 24px;
+        padding-left: 24px;
+        padding-right: 24px;
     }
 }
 
